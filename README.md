@@ -9,7 +9,7 @@ The dataset used for this model is sourced from Kaggle: [Naive Bayes Classificat
 It contains 995 rows of data with 2 features (glucose and blood pressure) and a target variable (diabetes).
 
 ## Orange Workflow
-
+![Logistic Regression Orange Workflow] (https://github.com/dikirust/diabetes-prediction-logistic-regression-model/blob/main/logistic%20regression.png?raw=true)
 The Orange workflow consists of the following steps:
 
 1. **Select Columns**: The 'diabetes' variable is set as the target, while 'glucose' and 'bloodpressure' are used as predictive features.
